@@ -37,5 +37,3 @@ Junte-se a nós para tornar as cidades mais acessíveis! PRs são bem-vindos.
 MIT
 
 ---
-
-Desenvolvido com ❤️ para uma mobilidade urbana inclusiva.
