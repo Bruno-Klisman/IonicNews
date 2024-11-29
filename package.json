@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "cambio",
   "private": true,
   "version": "0.0.1",
@@ -52,4 +53,14 @@
     "vitest": "^0.34.6"
   },
   "description": "An Ionic project"
+=======
+  "dependencies": {
+    "@ionic/storage": "^4.0.0",
+    "@ionic/storage-angular": "^4.0.0",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.6",
+    "localforage": "^1.10.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+>>>>>>> aba5d07104fcf5c973de76ebf724bbc230fbe7e6
 }
